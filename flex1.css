@@ -1,11 +1,11 @@
-nav ul {
+header nav ul {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     gap: 5px;
 
 }
-nav {
+header nav {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -24,4 +24,12 @@ article {
 article section {
     flex: 1 1 300px;}
 
+footer nav ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+
+}
 
