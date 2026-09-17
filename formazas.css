@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+    list-style: none;
+}
+
+main {
+    max-width: 1400px;
+    margin: auto;
+    border: solid 1px rgb(245, 201, 120);
+    padding: 20px;
+}
+
+h1 {
+    color: grey;
+}
+
+
+
+header {
+    border: solid 1px black;
+    padding: 5px;
+}
+
+section h1 {
+    color: white;
+    background-color: red;
+    border: solid 1px black;
+    padding: 5px;   
+}
+
+section p {
+    padding: 10px;
+}
+
+.menu {
+    color: rgb(255, 188, 188);
+    padding: 5px;
+    border: solid 1px black;
+    
+}
+
+
+
+nav ul {
+    padding: 0;
+}
+
+#kezdolap_menu {
+    background-color: red;
+    border: solid 1px black;
+    padding: 5px;
+    color: white;
+
+}
+
+article {
+    border: solid 1px rgb(245, 201, 120);
+}
+
+section {
+    border: solid 1px rgb(0, 0, 0);
+    background-color: rgb(170, 170, 170);
+    color: white;
+    padding: 5px;
+}
+
+
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+    border: 1px solid black;
+    background-color: rgb(177, 177, 177);
+}
