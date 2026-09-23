@@ -4,7 +4,7 @@
 }
 
 main {
-    max-width: 1400px;
+    max-width: 1000px;
     margin: auto;
     border: solid 1px rgb(245, 201, 120);
     padding: 20px;
@@ -55,6 +55,7 @@ nav ul {
 
 article {
     border: solid 1px rgb(245, 201, 120);
+    padding: 10px;
 }
 
 section {
